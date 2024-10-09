@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quality Policy Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #2C3E50;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .confidentiality {
+            font-size: 0.9em;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Quality Policy Document</h1>
+    <h2>Document Information</h2>
+    <table>
+        <tr>
+            <th>Document Name</th>
+            <td>Quality Policy Document</td>
+        </tr>
+        <tr>
+            <th>Document ID</th>
+            <td>FEN-QMS-0001</td>
+        </tr>
+        <tr>
+            <th>Version</th>
+            <td>v1.0</td>
+        </tr>
+        <tr>
+            <th>Effective Date</th>
+            <td>08 October 2024</td>
+        </tr>
+        <tr>
+            <th>Review Date</th>
+            <td>08 October 2025</td>
+        </tr>
+        <tr>
+            <th>Approved by</th>
+            <td>Yelda Ogru, COO & Qualified Person, Fenix Innovation Group</td>
+        </tr>
+    </table>
+
+    <h2>Table of Contents</h2>
+    <ul>
+        <li>1. Purpose</li>
+        <li>2. Scope</li>
+        <li>3. Policy Statement</li>
+        <li>4. Responsibilities</li>
+        <li>5. Commitment to Continuous Improvement</li>
+        <li>6. Communication and Awareness</li>
+        <li>7. References</li>
+        <li>8. Distribution</li>
+    </ul>
+
+    <h3>1. Purpose</h3>
+    <p>The purpose of this Quality Policy is to demonstrate Fenix Innovation Group’s commitment to the highest standards of product quality, safety, and compliance in accordance with PIC/S (Pharmaceutical Inspection Co-operation Scheme) guidelines and Good Manufacturing Practice (GMP) regulations.</p>
+
+    <h3>2. Scope</h3>
+    <p>This Quality Policy applies to all activities, products, and services offered by Fenix Innovation Group, including research, development, manufacturing, and distribution, with a focus on ensuring the safety and efficacy of our products.</p>
+
+    <h3>3. Policy Statement</h3>
+    <ul>
+        <li><strong>Regulatory Compliance:</strong> Adhere to all applicable regulations, including PIC/S GMP standards, local health authority regulations, and international quality requirements.</li>
+        <li><strong>Customer Satisfaction:</strong> Deliver safe, effective, and reliable products that meet the needs and expectations of our customers and patients.</li>
+        <li><strong>Risk Management:</strong> Implement risk-based approaches in all aspects of our operations to identify, evaluate, and mitigate risks.</li>
+        <li><strong>Continuous Improvement:</strong> Foster a culture of continuous improvement in our QMS by regularly reviewing performance metrics, customer feedback, and industry best practices.</li>
+        <li><strong>Employee Empowerment:</strong> Engage and train employees to ensure they have the necessary skills, knowledge, and accountability to maintain and enhance quality standards.</li>
+        <li><strong>Sustainability and Ethical Responsibility:</strong> Uphold principles of sustainability and ethical responsibility in all business operations.</li>
+    </ul>
+
+    <h3>4. Responsibilities</h3>
+    <ul>
+        <li><strong>Quality Assurance (QA):</strong> Oversee the implementation and maintenance of the QMS.</li>
+        <li><strong>Management:</strong> Provide the necessary resources to maintain the QMS and ensure continuous improvement.</li>
+        <li><strong>All Employees:</strong> Adhere to the standards outlined in this policy and participate in continuous improvement efforts.</li>
+    </ul>
+
+    <h3>5. Commitment to Continuous Improvement</h3>
+    <p>Fenix Innovation Group is committed to continuously improving the effectiveness of its QMS. This will be achieved by monitoring and measuring quality objectives, performing internal audits, and implementing CAPA (Corrective and Preventive Actions).</p>
+
+    <h3>6. Communication and Awareness</h3>
+    <p>The Quality Policy is communicated to all employees, contractors, and relevant stakeholders. It is available throughout Fenix Innovation Group’s operational areas and reviewed during employee training sessions.</p>
+
+    <h3>7. References</h3>
+    <p>PIC/S Guide to Good Manufacturing Practice (GMP) for Medicinal Products. Fenix Innovation Group Quality Management System (QMS) Manual. Local Regulatory Guidelines and International Standards.</p>
+
+    <h3>8. Distribution</h3>
+    <p>This document is distributed electronically via the Document Control System and is accessible by all employees.</p>
+
+    <p class="confidentiality">Confidentiality: The enclosed documents contain trade secret and confidential commercial information. Do not disclose to third parties without prior written consent.</p>
+
+</body>
+</html>
